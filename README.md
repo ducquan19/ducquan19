@@ -14,7 +14,7 @@
   <img src="https://img.shields.io/github/followers/ducquan19?label=follow&style=social">
 </div>
 
-### 🔗 Connect With Me
+## 🔗 Connect With Me
 <div id="header" align="center">
   <div id="badges">
     <a style="display: inline-block; margin: 10px 0" href="https://www.facebook.com/duc.quan19">
