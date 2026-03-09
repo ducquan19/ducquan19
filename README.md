@@ -112,5 +112,5 @@
 
 ## 🔥 My Stats:
 
-| ![Quan's github stats](https://github-readme-stats.vercel.app/api?username=ducquan19&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ducquan19&langs_count=4&layout=compact&theme=buefy&hide_border=true) |
+| ![Quan's github stats](https://github-readme-stats-ara3.vercel.app/api?username=ducquan19&show_icons=true&theme=dark&hide_border=true&count_private=true) | ![Top Langs](https://github-readme-stats-ara3.vercel.app/api/top-langs/?username=ducquan19&langs_count=8&layout=compact&theme=dark&hide_border=true) |
 | ------------- | ------------- |
