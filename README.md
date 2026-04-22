@@ -42,7 +42,7 @@
 ## 🛠 &nbsp;Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,r,tensorflow,pytorch,scikitlearn,opencv,anaconda,fastapi,git,github,docker,ubuntu,visualstudio,vscode"/>
+  <img src="https://skillicons.dev/icons?i=cpp,python,tensorflow,pytorch,scikitlearn,opencv,anaconda,git,github,docker,ubuntu,vscode"/>
 </p>
 
 ## 🔥 My Stats:
