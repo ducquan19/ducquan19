@@ -23,7 +23,7 @@
     <a style="display: inline-block; margin: 10px 0" href="https://www.linkedin.com/in/ducquan19">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
-    <a style="display: inline-block; margin: 10px 0" href="mailto:quantd.t1.2023@gmail.com">
+    <a style="display: inline-block; margin: 10px 0" href="mailto:ducq317@gmail.com">
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
     </a>
   </div>
@@ -35,17 +35,5 @@
 
 - 🔭 I’m currently a Computer Science student in Honors Program at the University of Science, VNU-HCM.
 - 🌱 I’m currently exploring Computer Vision, Deep Learning, and Data Science from both research and application perspectives.
-- 👯 I’m looking to collaborate on projects involving visual understanding, object detection, image segmentation, and applied AI systems.
 - 🤔 I’m looking for help with advancing my research abilities and building scalable, real-world Computer Vision and AI applications.
 - 👐 Feel free to contact me for any collaboration or project.
-
-## 🛠 &nbsp;Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,python,tensorflow,pytorch,scikitlearn,opencv,anaconda,git,github,docker,ubuntu,vscode"/>
-</p>
-
-## 🔥 My Stats:
-
-| ![Quan's github stats](https://github-readme-stats-ara3.vercel.app/api?username=ducquan19&show_icons=true&theme=dark&hide_border=true&count_private=true) | ![Top Langs](https://github-readme-stats-ara3.vercel.app/api/top-langs/?username=ducquan19&langs_count=8&layout=compact&theme=dark&hide_border=true) |
-| ------------- | ------------- |
